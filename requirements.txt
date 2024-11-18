@@ -1,0 +1,4 @@
+PyQt6
+sip
+requests
+PyQt6-WebEngine
