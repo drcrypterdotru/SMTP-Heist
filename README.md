@@ -5,13 +5,13 @@
 ## 📷 Screenshots
 
 🌐 **Dashboard (Reported)**  
-![Dashboard](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Screenshot/demo_1.png)
+![Dashboard](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Screenshot/demo_0.png)
 
 🌐 **Realtime Update**  
-![Realtime Update](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Screenshot/demo_2.png)
+![Realtime Update](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Screenshot/demo_1.png)
 
 🌐 **Settings/Config**  
-![Settings/Config](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Screenshot/demo_3.png)
+![Settings/Config](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Screenshot/demo_2.png)
 
 ---
 <details>
