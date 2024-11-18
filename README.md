@@ -21,7 +21,7 @@ Two main things to discover the host with your email combo:
 1. **Target Hostname** of the SMTP Service. - Enter the host of your choice, for example, `smtp.gmail.com`.
 2. **Input SMTP Host** 
 You can also add more domains and configurations to the **Config.ini** under the line:  
-`smtp_subdomain = smtp, smtpout, webmail` [Add More](https://github.com/drcrypterdotru/SMTP-Heist/Sub_SMTP.txt) .
+`smtp_subdomain = smtp, smtpout, webmail` [Add More](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Sub_SMTP.txt) .
 
 **Support File => Load `*.txt`**  
 Your combo file (`list_combo.txt`) must contain the following format:
