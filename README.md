@@ -39,7 +39,7 @@ If your combo list contains `email:password`, replace `:` with `|`. Invalid or e
 | 🔄 Track Report with Good/Failed - Task/Remaining - Progress        |
 | ⚙️ Config SMTP Host with 2 Methods + Set your own mail sent Success Result          |
 | 🔍 Advanced Discovery Target without Skip |
-| 📜 Report Result to Telegram (HOST|PORT|EMAIL|PASSWORD) & Got Results set in the email inbox or spam |
+| 📜 Report Result to Telegram |
 
 
 ## 🚒 Installation
@@ -49,15 +49,17 @@ If your combo list contains `email:password`, replace `:` with `|`. Invalid or e
 ```bash
 git clone https://github.com/drcrypterdotru/SMTP-Heist
 cd SMTP-Heist
-
+```
 Install the required dependencies:
-Copy code
-pip install -r requirements.txt
-# Or for Python 3
+```bash
+python -m pip install -r requirements.txt
+# Or
 python3 -m pip install -r requirements.txt
-🚀 How to Run
+```
 
+🚀 How to Run
 After installation, launch the application by running:
+```bash
 python3 Main.py
 ```
 
@@ -65,14 +67,12 @@ python3 Main.py
 
 You can download and run the **executable** from the [Releases section](https://github.com/drcrypterdotru/SMTP-Heist/releases). No Python installation is required, just **one click** to run. 🎉
 
-
 ---
-
 
 <div style="text-align: center;">
 
 ## Video Usage 
-[![Video Usage](#.png)](https://www.youtube.com/watch?v=#)
+[![Video Usage](https://i.ibb.co/bm2FtCC/SMTP-Heist-Time-0-00-27-06.png)](https://www.youtube.com/watch?v=JezDTo5S_ks)
 
 ## More Tools on Forums
 
@@ -82,19 +82,11 @@ Explore our community and connect with us on visit our website for more Tools an
 
 ---
 
----
-
-## 🚒 Installation
-
-1. Clone the repository and navigate into the project directory:
-
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Feel free to fork this repository, make enhancements, and open pull requests. Please check the [issues](#) page for ongoing tasks or bug reports.
 yi
+
 ---
 
 ## 📜 License

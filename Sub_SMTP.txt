@@ -1,0 +1,6 @@
+smtp, smtpout, webmail, email, imap, pop, pop3, mailserver,
+smtp1, smtp2, mx, mx1, mx2, mx3, mail1, mail2, relay,
+mailgate, smtp-gateway, emailserver, smtp-mail, exchange, securemail,
+outbound, inbound, smtp-relay, smtp-secure, authsmtp, smtp, smtp, mail, webmail, secure, plussmtp, smtpmail,
+smtpatt, pop3, securesmtp, outgoing, smtp-mail, plussmtpmail,
+Smtpauths, Smtpauth
