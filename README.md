@@ -18,10 +18,11 @@
 SMTP Heist is an Open Source tool useful for those trying to crack/pentest SMTP for a Single Host, Multi Host, or Multi Port services. You can modify settings in the UI under the **Settings/Config** tab.
 
 Two main things to discover the host with your email combo:
-1. **Target Hostname** of the SMTP Service. - Enter the host of your choice, for example, `smtp.gmail.com`.
+1. **Target Hostname** of the SMTP Service. - You can use Multi-HOSTS, for example, `smtp.gmail.com`.
 2. **Input SMTP Host** 
-You can also add more domains and configurations to the **Config.ini** under the line:  
+You can also add more domains and configurations to the **Config.ini** in the second line:  
 `smtp_subdomain = smtp, smtpout, webmail` [Add More](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Sub_SMTP.txt) .
+After adding to smtp_subdomain, you need to input SMTPHOST smtp.host.default to allow you Enable Work with `smtp_subdomain = smtp, smtpout, webmail`.
 
 **Support File => Load `*.txt`**  
 Your combo file (`list_combo.txt`) must contain the following format:
