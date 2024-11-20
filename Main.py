@@ -1135,8 +1135,8 @@ QScrollBar::sub-page:vertical {
         # }
 
 
-        #print('Saving Config')
-        with open('Config.ini', 'w') as config_raw:
+        
+        with open('Config.ini', 'w', encoding='utf-8', errors='ignore') as config_raw:
             config.write(config_raw)
 
     def setup_second_tab(self):
