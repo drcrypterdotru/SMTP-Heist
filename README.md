@@ -13,6 +13,9 @@
 🌐 **Settings/Config**  
 ![Settings/Config](https://github.com/drcrypterdotru/SMTP-Heist/blob/main/Screenshot/demo_2.png)
 
+## Join Community & Suggest a Feature
+[![Join on Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/220px-Telegram_logo.svg.png)](https://t.me/burnwpcommunity)
+
 ---
 <details>
 SMTP Heist is an Open Source tool useful for those trying to crack/pentest SMTP for a Single Host, Multi Host, or Multi Port services. You can modify settings in the UI under the **Settings/Config** tab.
@@ -73,7 +76,7 @@ You can download and run the **executable** from the [Releases section](https://
 <div style="text-align: center;">
 
 ## Video Usage 
-[![Video Usage](https://i.ibb.co/bm2FtCC/SMTP-Heist-Time-0-00-27-06.png)](https://www.youtube.com/watch?v=JezDTo5S_ks)
+[![Video Usage](https://i.ibb.co/bm2FtCC/SMTP-Heist-Time-0-00-27-06.png)](https://t.me/burnwpcommunity/310)
 
 ## More Tools on Forums
 
